@@ -7,6 +7,7 @@
   },
   "AK": {
     "name": "Indore",
+    "capital": "Banh My32",
     "lat": "22.7167",
     "long": "75.8472"
   },
@@ -30,6 +31,7 @@
   },
   "CO": {
     "name": "Kota",
+    "capital": "Banh My22",
     "lat": "25.18",
     "long": "75.83"
   },
@@ -53,29 +55,31 @@
   },
   "HI": {
     "name": "Gwalior",
+    "capital": "Banh My22",
     "lat": "26.2124",
     "long": "78.1772"
   },
   "ID": {
     "name": "Ahmedabad",
-     "capital": "Banh My8",
+    "capital": "Banh My8",
     "lat": "23.0225",
     "long": "72.5717"
   },
   "IL": {
     "name": "Pimpri-Chicchwad",
-     "capital": "Banh My9",
+    "capital": "Banh My9",
     "lat": "18.6168",
     "long": "73.8037"
   },
   "IN": {
     "name": "Pune",
+    "capital": "Banh My222",
     "lat": "18.5203",
     "long": "73.8567"
   },
   "IA": {
     "name": "Raipur",
-     "capital": "Banh My10",
+    "capital": "Banh My10",
     "lat": "21.2444",
     "long": "81.6303"
   },
