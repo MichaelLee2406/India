@@ -2,7 +2,6 @@
   "AL": {
     "name": "Bhopal",
     "capital": "Banh My",
-    "lat": "10.780",
     "lat": "23.2599",
     "long": "77.1426"
   },
@@ -14,21 +13,18 @@
   "AZ": {
     "name": "Nagpur",
     "capital": "Banh My1",
-    "lat": "10.780",
     "lat": "21.1497",
     "long": "79.0806"
   },
   "AR": {
     "name": "Aurangapad",
     "capital": "Banh My2",
-    "lat": "10.780",
     "lat": "19.88",
     "long": "75.32"
   },
   "CA": {
     "name": "Jabalpur",
     "capital": "Banh My3",
-    "lat": "10.780",
     "lat": "23.1667",
     "long": "79.9333"
   },
@@ -40,21 +36,18 @@
   "CT": {
     "name": "Nasik",
     "capital": "Banh My4",
-    "lat": "10.780",
     "lat": "19.9975",
     "long": "73.7898"
   },
   "DE": {
     "name": "Vadodara",
     "capital": "Banh My5",
-    "lat": "10.780",
     "lat": " 22.3",
     "long": "73.2"
   },
   "GA": {
     "name": "Surat",
     "capital": "Banh My6",
-    "lat": "10.780",
     "lat": " 21.1702",
     "long": "72.8311"
   },
@@ -66,14 +59,12 @@
   "ID": {
     "name": "Ahmedabad",
      "capital": "Banh My8",
-    "lat": "10.780",
     "lat": "23.0225",
     "long": "72.5717"
   },
   "IL": {
     "name": "Pimpri-Chicchwad",
      "capital": "Banh My9",
-    "lat": "10.780",
     "lat": "18.6168",
     "long": "73.8037"
   },
@@ -85,42 +76,36 @@
   "IA": {
     "name": "Raipur",
      "capital": "Banh My10",
-    "lat": "10.780",
     "lat": "21.2444",
     "long": "81.6303"
   },
   "KS": {
     "name": "Kalyan",
      "capital": "Banh My11",
-    "lat": "10.780",
     "lat": "19.2502",
     "long": "73.1602"
   },
   "KY": {
     "name": "Kukatpalli",
      "capital": "Banh My12",
-    "lat": "10.780",
     "lat": "17.4849",
     "long": "78.4138"
   },
   "LA": {
     "name": "Secunderabad",
      "capital": "Banh My13",
-    "lat": "10.780",
     "lat": "12.9675",
     "long": "80.1491"
   },
   "ME": {
     "name": "Hyderabad",
      "capital": "Banh My14",
-    "lat": "10.780",
     "lat": "17.3617",
     "long": "78.4747"
   },
   "MD": {
     "name": "Thane",
      "capital": "Banh My15",
-    "lat": "10.780",
     "lat": "19.1972",
     "long": "72.9722"
   }
